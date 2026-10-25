@@ -6,6 +6,6 @@ Thông tin sinh viên:
 
 ---
 
-## BÀI TẬP: MINH CHỨNG CÁC BƯỚC THỰC HIỆN WEB ASP.NET & SQL SERVER
+## BÀI TẬP: CÁC BƯỚC THỰC HIỆN WEB ASP.NET & SQL SERVER
 
 *(Bạn có thể xem các ảnh minh chứng chi tiết đã được tải lên trực tiếp trong kho chứa này).*
